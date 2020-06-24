@@ -1,5 +1,0 @@
-,columns_names,test_value,p_value,normal_distribution
-0,sepal_length_in_cm,0.9760899543762207,0.010180278681218624,False
-1,sepal_width_in_cm,0.9837920665740967,0.07518772780895233,True
-2,petal_length_in_cm,0.8764243125915527,7.54509399403247e-10,False
-3,petal_width_in_cm,0.902624249458313,1.864667886763982e-08,False
